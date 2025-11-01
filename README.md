@@ -40,7 +40,7 @@ Perform functional and UI testing on key OrangeHRM modules and track all test ex
 | TC14 | Verify logout functionality | User redirected to login page |
 
 📄 **Full test case file:**  
-👉 [OrangeHRM_Test_Cases_Prantor.xlsx]()
+👉 [OrangeHRM_Test_Cases_Prantor.xlsx](https://github.com/user-attachments/files/23283250/OrangeHRM_Test_Cases_Prantor.xlsx)
 
 ---
 
@@ -58,26 +58,29 @@ Perform functional and UI testing on key OrangeHRM modules and track all test ex
 )
 
 📄 **Full defect report:**  
-👉 [OrangeHRM_Defect_Report_PrantorHawlader.pdf]()
+👉 [Defect_Report.pdf](https://github.com/user-attachments/files/23283264/Defect_Report.pdf)
+
 
 ---
 
 ## 📊 Test Execution & Zephyr Reports
 | Report | Description | Link |
 |--------|--------------|------|
-| Test Execution Report | Overall pass/fail status | [View PDF]() |
-| Traceability Report | Links test cases to defects | [View PDF]() |
+| Test Execution Report | Overall pass/fail status | [Test Case Execution Report.pdf](https://github.com/user-attachments/files/23283274/Test.Case.Execution.Report.pdf)
+ |
+| Traceability Report | Links test cases to defects | [Traceability Report.pdf](https://github.com/user-attachments/files/23283294/Traceability.Report.pdf)
+ |
 
 ---
 
 ## 📸 Screenshots
 | Screenshot | Description |
 |-------------|-------------|
-| ![Login Page](<img width="663" height="621" alt="Screenshot_2" src="https://github.com/user-attachments/assets/cf7f25ee-6e4c-4999-905d-dbcd6f23d498" />
+| (<img width="663" height="621" alt="Screenshot_2" src="https://github.com/user-attachments/assets/cf7f25ee-6e4c-4999-905d-dbcd6f23d498" />
 ) | OrangeHRM login page |
-| ![Zephyr Execution](<img width="1364" height="508" alt="image" src="https://github.com/user-attachments/assets/cba822ab-2b6a-4146-8348-fe5c0f6200dd" />
+| (<img width="1364" height="508" alt="image" src="https://github.com/user-attachments/assets/cba822ab-2b6a-4146-8348-fe5c0f6200dd" />
 ) | Zephyr test execution summary |
-| ![Defect in Jira](<img width="719" height="561" alt="Screenshot_6" src="https://github.com/user-attachments/assets/899e2ec3-7f56-4865-a0b6-2a78f5b7809e" />
+| (<img width="719" height="561" alt="Screenshot_6" src="https://github.com/user-attachments/assets/899e2ec3-7f56-4865-a0b6-2a78f5b7809e" />
 ) | Bug report view in Jira |
 
 ---
