@@ -74,14 +74,13 @@ Perform functional and UI testing on key OrangeHRM modules and track all test ex
 ---
 
 ## 📸 Screenshots
-| Screenshot | Description |
-|-------------|-------------|
-| (<img width="663" height="621" alt="Screenshot_2" src="https://github.com/user-attachments/assets/cf7f25ee-6e4c-4999-905d-dbcd6f23d498" />
-) | OrangeHRM login page |
-| (<img width="1364" height="508" alt="image" src="https://github.com/user-attachments/assets/cba822ab-2b6a-4146-8348-fe5c0f6200dd" />
-) | Zephyr test execution summary |
-| (<img width="719" height="561" alt="Screenshot_6" src="https://github.com/user-attachments/assets/899e2ec3-7f56-4865-a0b6-2a78f5b7809e" />
-) | Bug report view in Jira |
+
+| Screenshot                                                                                                                                 | Description                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
+| <img width="663" height="621" alt="Screenshot_2" src="https://github.com/user-attachments/assets/cf7f25ee-6e4c-4999-905d-dbcd6f23d498" />  | OrangeHRM login page          |
+| <img width="1365" height="537" alt="Screenshot_1" src="https://github.com/user-attachments/assets/04175098-40e8-4cd7-9530-4023aecac701" /> | Test Cases                    |
+| <img width="1364" height="508" alt="image" src="https://github.com/user-attachments/assets/cba822ab-2b6a-4146-8348-fe5c0f6200dd" />        | Zephyr test execution summary |
+| <img width="719" height="561" alt="Screenshot_6" src="https://github.com/user-attachments/assets/899e2ec3-7f56-4865-a0b6-2a78f5b7809e" />  | Bug report view in Jira       |
 
 ---
 
